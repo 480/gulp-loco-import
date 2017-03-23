@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: test.html:1
+msgid "GulpLocoApiTest-Name"
+msgstr ""
+
+#: test.html:2
+msgid "GulpLocoApiTest-Hello"
+msgstr ""
