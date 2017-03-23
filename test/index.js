@@ -15,7 +15,7 @@ function consoleOutput(param) {
 }
 
 var options = {
-  'key': 'ZEGbxVtDcB1kP4Q6dL5hfFFdWYbXVc5t',
+  'key': '--YOUR--LOCO--API--KEY--',
   'ext': 'pot',
   'index': 'id',
   'ignore-new':false,
