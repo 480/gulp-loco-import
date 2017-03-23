@@ -12,7 +12,7 @@ npm install --save-dev https://github.com/byseob/gulp-loco-import.git
 
 ## Example
 
-### client
+### import test.pot to loco in gulpfile.js  
 
 ```js
 var gulp = require('gulp');
